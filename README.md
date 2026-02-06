@@ -26,10 +26,7 @@ It's a simple visualization of your year (2026):
 
 ## Built With
 
-*   React (Vite)
-*   Tailwind CSS
-*   Lucide React
-*   date-fns
+* Idk, I vibe coded it with Gemini :)
 
 ## Running Locally
 
