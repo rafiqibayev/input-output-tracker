@@ -5,7 +5,7 @@
 Most habit trackers just track habits. This one tracks **shipping**.
 Based on the GitHub contribution graph, but designed for creators who need to balance daily effort with actual results.
 
-<img width="1999" height="713" alt="dark-mode" src="https://github.com/user-attachments/assets/43e354cb-1386-4016-9b99-c0f165fe5c5a" />
+<img width="1512" height="982" alt="darkmode" src="https://github.com/user-attachments/assets/83dc22f8-f62d-44af-b0ab-ab1444d20d2a" />
 
 ## The Logic
 
