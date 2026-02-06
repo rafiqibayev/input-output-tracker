@@ -7,6 +7,8 @@ Based on the GitHub contribution graph, but designed for creators who need to ba
 
 <img width="1512" height="982" alt="darkmode" src="https://github.com/user-attachments/assets/83dc22f8-f62d-44af-b0ab-ab1444d20d2a" />
 
+Try it out: https://input-output-tracker.vercel.app/
+
 ## The Logic
 
 It's a simple visualization of your year (2026):
@@ -28,9 +30,6 @@ It's a simple visualization of your year (2026):
 
 * Idk, I vibe coded it with Gemini :)
 
-## Running Locally
+## Try it out
 
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   npm install
+https://input-output-tracker.vercel.app/
